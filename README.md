@@ -25,3 +25,4 @@ app中build.gradle
 //    implementation project(':lib_demo')
     implementation 'com.github.yezizaiqiutian:GHMavenDemo:0.1'
 ```
+
